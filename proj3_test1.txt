@@ -1,0 +1,4 @@
+C C T G G C
+C G T A T T
+T A G A G A
+G G A A G C
